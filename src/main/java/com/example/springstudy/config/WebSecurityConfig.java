@@ -1,4 +1,4 @@
-package com.example.springstudy.config;
+/* package com.example.springstudy.config;
 
 import com.example.springstudy.service.UserDetailService;
 import lombok.RequiredArgsConstructor;
@@ -61,3 +61,4 @@ public class WebSecurityConfig {
         return new BCryptPasswordEncoder();
     }
 }
+*/
